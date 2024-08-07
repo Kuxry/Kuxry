@@ -10,8 +10,8 @@ I'm a master's student at the[University of Tsukuba, Japan](https://www.tsukuba.
 - 📝 I blog here: [kuxry.github.io](kuxry.github.io)
 - 👨‍💻 You can find here some of the cool things I've built
 - 🎙️ I also speak at [meetups and conferences](https://www.google.com/) whenever I get a chance
+-  📫 How to reach me: <a href='mailto:keeey.kk@gmail.com'>keeey.kk@gmail.com</a>
 
-<p align='center'>
 
    <a href="https://github.com/Kuxry/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuxry&layout=compact"/></a>
