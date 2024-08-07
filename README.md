@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/-kuxry.io-orange?style=social&logo=RSS)](https://kuxry.github.io)
 ![Profile views](https://komarev.com/ghpvc/?username=sahansera&color=brightgreen)
 
-I've been working in the industry as a software engineer and a researcher, focusing on various disciplines within deep learning, natural language processing, and information retrieval. I mainly work with C++, Python, and .NET nowadays, but I'm always on the lookout to learn new things. I have a Master's degree in Informatics from the [University of Tsukuba, Japan](https://www.tsukuba.ac.jp/). During my free time, I contribute to my research blog where I share my findings and tutorials to help developers and researchers around the world.
+I'm a master's student at the[University of Tsukuba, Japan](https://www.tsukuba.ac.jp/), specializing in deep learning, natural language processing, and information retrieval.I I mainly work with C++, Python, and .NET nowadays, but I'm always on the lookout to learn new things. During my free time, I contribute to my research blog where I share my findings and tutorials to help developers and researchers around the world.
 
 - 📝 I blog here: [kuxry.github.io](kuxry.github.io)
 - 👨‍💻 You can find here some of the cool things I've built
